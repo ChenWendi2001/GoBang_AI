@@ -12,8 +12,8 @@
 | Monte Carlo Tree Search(MCTS) | Not Yet |
 | Reinforcement Learning | Not Yet |
 
-## V1.0
+### V1.0
 - Beat the baseline.
 
-## V1.1
+### V1.1
 - Fix some issues which may cause TLE.
