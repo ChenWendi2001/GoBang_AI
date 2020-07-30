@@ -21,4 +21,5 @@
 ### About GUI
 - GUI has been implemented through Qt.
 
-![GUI](https://github.com/ChenWendi2001/GoBang_AI/tree/master/Gobang_beta/source/menu.PNG)
+![GUI](https://github.com/ChenWendi2001/GoBang_AI/blob/master/Gobang_beta/source/menu.png)
+
