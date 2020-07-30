@@ -17,3 +17,8 @@
 
 ### V1.1
 - Fix some issues which may cause TLE.
+
+### About GUI
+- GUI has been implemented through Qt.
+
+![avatar](./Gobang_beta/source/menu.PNG)
