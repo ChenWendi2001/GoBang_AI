@@ -106,10 +106,10 @@ bool GameModel::isWin(int row, int col){
         {
 
             win_x[0] = row+i;win_y[0]=col-i;
-            win_x[1] = row+i+1;win_y[1]=col-i+1;
-            win_x[2] = row+i+2;win_y[2]=col-i+2;
-            win_x[3] = row+i+3;win_y[3]=col-i+3;
-            win_x[4] = row+i+4;win_y[4]=col-i+4;
+            win_x[1] = row+i-1;win_y[1]=col-i+1;
+            win_x[2] = row+i-2;win_y[2]=col-i+2;
+            win_x[3] = row+i-3;win_y[3]=col-i+3;
+            win_x[4] = row+i-4;win_y[4]=col-i+4;
 
             return true;
         }
