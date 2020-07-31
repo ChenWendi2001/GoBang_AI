@@ -20,6 +20,7 @@
 
 ### About GUI
 - GUI has been implemented through Qt.
+- You can click `Gobang_release/Gobang_beta.exe` to run the program.
 
 ![GUI](https://github.com/ChenWendi2001/GoBang_AI/blob/master/Gobang_beta/source/menu.PNG)
 
